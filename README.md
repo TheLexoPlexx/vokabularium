@@ -1,7 +1,7 @@
-# Tauri + Leptos
+# Vokabularium
 
-This template should help get you started developing with Tauri and Leptos.
+Eine Schnapsidee mit Rust.
 
-## Recommended IDE Setup
+Schlägt einem jeden Tag ein famoses Wort vor.
 
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Wörter sind hardocoded und es gibt nur zwei.
